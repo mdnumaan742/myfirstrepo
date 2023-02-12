@@ -6,4 +6,8 @@ public class Demo
 		System.out.println("Git is fun");
 	}
 
+		for(int i = 0; i<10; i++){
+			System.out.println("Welcome to java");
+}
+
 }
